@@ -4,7 +4,6 @@ import keyboard
 import time
 import ctypes
 
-# This forces the script to use the "Classic" console which supports resizing
 if sys.platform == 'win32':
     kernel32 = ctypes.windll.kernel32
     kernel32.SetConsoleMode(kernel32.GetStdHandle(-11), 7)
