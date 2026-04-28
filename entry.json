@@ -1,0 +1,22 @@
+[
+    {
+        "doctor": "Adam List",
+        "type": "Doctor",
+        "fee": 150.0
+    },
+    {
+        "doctor": "Cleara",
+        "type": "Doctor",
+        "fee": 150.0
+    },
+    {
+        "doctor": "Adam List",
+        "type": "Doctor",
+        "fee": 150.0
+    },
+    {
+        "doctor": "Adam List",
+        "type": "Doctor",
+        "fee": 150.0
+    }
+]
