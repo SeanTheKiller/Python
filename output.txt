@@ -3,27 +3,38 @@
 =====================================================================
 ID  |Name                       |Specialization |Fee
 =====================================================================
-01  | Dave		        | Nurse		| 100.0	
-02  | Dave			| Nurse		| 100.0
-02  | Adam			| Doctor	| 100.0
-02  | Adam			| Doctor	| 100.0
-02  | Adam			| Doctor	| 100.0
-02  | Adam			| Doctor	| 100.0
-02  | Adam			| Doctor	| 100.0
-02  | Adam List			| Doctor	| 100.0
-02  | Adam List			| Doctor	| 100.0
-02  | Adam List			| Doctor	| 100.0
-02  | Adam List			| Doctor	| 100.0
-02  | Adam Lam                  | Doctor        | $150.00
-02  | Adam Lam                  | Doctor        | $150.00
-02  | Adam Lam                  | Doctor        | $150.00
-02  | Adam Lam                  | Doctor        | $150.00
-02  | Adam List                 | Doctor        | $150.00
-02  | Adam Laster               | Doctor        | $150.00
-02  | Adam Dam                  | Doctor        | $150.00
-02  | Adam                      | Doctor        | $150.00
-02  | Adam                      | Doctor        | $150.00
-02  | Adam                      | Doctor     | $150.00
-02  | Adam                      | Doctor     | $150.00
-02  | Adam Lam                  | Doctor     | $150.00
-02  | Doctor                    | Doctor     | $150.00
+01  |Smartass		        |nurse		|	
+02  |doctor		        	|nurse		|
+02  |ADAM		        	|Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam	    		    |Doctor		|100.0
+02  |Adam		    	    |Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam		    	    |Doctor		|100.0
+02  |Adam			        |Doctor	    |100.0
+02  |Adam	        		|Doctor		|100.0
+02  |Adam	        		|Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam	        		|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		        	|Doctor		|100.0
+02  |Adam		    	    |Doctor		|100.0
+02  |Adam			        |Doctor		|100.0
+02  |Adam List			    |Doctor		|100.0
