@@ -254,7 +254,7 @@ def doctor():
 # ==========================================
 
 def finance_officer():
-    print("6767676767667")
+    print("6767676767676767")
     #START YOUR CODE HERE!!!
 
 def menu_choice():
